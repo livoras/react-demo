@@ -1,0 +1,63 @@
+{
+  "name": "feb",
+  "version": "0.1.2",
+  "description": "mobile first responsive front end framework",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "patch": "npm version patch && npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.3",
+    "brfs": "^1.4.1",
+    "connect-rest": "^1.9.5",
+    "del": "^1.2.0",
+    "gulp": "latest",
+    "gulp-autoprefixer": "0.0.10",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.3.4",
+    "gulp-connect": "^2.2.0",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-less": "latest",
+    "gulp-livereload": "^3.8.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uglifycss": "^1.0.4",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "latest"
+  },
+  "author": {
+    "name": "Livoras"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "react": "^0.13.3"
+  },
+  "gitHead": "ee083b63720aa4b7b6deb0df3b01d6bc9877ba1e",
+  "_id": "feb@0.1.2",
+  "_shasum": "e4a1f1714deca4aaf3efb44fbfc145c2636e4cf7",
+  "_from": "feb@>=0.1.2 <0.2.0",
+  "_npmVersion": "2.14.3",
+  "_nodeVersion": "4.1.0",
+  "_npmUser": {
+    "name": "livoras",
+    "email": "livoras@163.com"
+  },
+  "dist": {
+    "shasum": "e4a1f1714deca4aaf3efb44fbfc145c2636e4cf7",
+    "tarball": "http://registry.npmjs.org/feb/-/feb-0.1.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "livoras",
+      "email": "livoras@163.com"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/feb/-/feb-0.1.2.tgz"
+}

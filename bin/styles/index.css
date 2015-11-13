@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 5px;
+}
+.user-item {
+  cursor: pointer;
+}
+.user-item:hover,
+.user-item.active {
+  background-color: #ccc;
+}
